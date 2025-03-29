@@ -4,17 +4,17 @@ Eldoria is a **Java-based 2D adventure game** where players navigate a world, in
 
 ---
 
-## **🚀 Features**
-✅ **Smooth Character Movement** (WASD / Arrow Keys)  
-✅ **Customizable Game Levels** (Loaded from text-based maps)  
-✅ **Collision Detection** (Prevents walking through walls)  
-✅ **UI Elements** (Health Bar, Score Display)  
-✅ **Interactive Objects & NPCs** (Enemies, Coins, Keys, etc.)  
-✅ **File-Based Level Loading** (Modify `map.txt` to create new levels)  
+## **Features**
+ **Smooth Character Movement** (WASD / Arrow Keys)  
+ **Customizable Game Levels** (Loaded from text-based maps)  
+ **Collision Detection** (Prevents walking through walls)  
+ **UI Elements** (Health Bar, Score Display)  
+ **Interactive Objects & NPCs** (Enemies, Coins, Keys, etc.)  
+ **File-Based Level Loading** (Modify `map.txt` to create new levels)  
 
 ---
 
-## **🛠️ Technologies Used**
+## **🛠Technologies Used**
 - **Java Core (OOP Principles)** - Game Logic & Structure  
 - **Java Swing & AWT** - UI Rendering & Graphics  
 - **Java Collections (ArrayList, HashMap)** - Managing game data  
@@ -23,7 +23,7 @@ Eldoria is a **Java-based 2D adventure game** where players navigate a world, in
 
 ---
 
-## **📂 Project Structure**
+## **Project Structure**
 ```
 Eldoria/
 │── src/
@@ -42,7 +42,7 @@ Eldoria/
 
 ---
 
-## **🖥️ Installation & Running the Game**
+## **Installation & Running the Game**
 ### **🔹 Prerequisites**
 - Java **JDK 11 or higher** installed on your system  
 
@@ -63,7 +63,7 @@ Eldoria/
 
 ---
 
-## **🎮 Controls**
+## **Controls**
 | Key | Action |
 |------|--------|
 | `W` / `↑` | Move Up |
@@ -74,25 +74,25 @@ Eldoria/
 
 ---
 
-## **🛠️ How to Modify the Game**
+## **🛠How to Modify the Game**
 - **To edit levels**, modify the `map.txt` file inside the `assets/maps/` folder.  
 - **To change character sprites**, replace images in `assets/images/`.  
 - **To add new NPCs or enemies**, modify `NPC.java` and `Enemy.java`.  
 
 ---
 
-## **🤝 Contributing**
+## **Contributing**
 Want to improve Eldoria? Feel free to fork the project and submit a pull request!
 
 ---
 
-## **📜 License**
+## **License**
 This project is licensed under the **MIT License**.
 
 ---
 
-## **📧 Contact**
-For any questions or feature requests, reach out via **GitHub Issues** or email **your-email@example.com**.
+## **Contact**
+For any questions or feature requests, reach out via **GitHub Issues** or email **dhimankanishk21@gmail.com**.
 
 ---
 
