@@ -14,7 +14,7 @@ Eldoria is a **Java-based 2D adventure game** where players navigate a world, in
 
 ---
 
-## **🛠Technologies Used**
+## **Technologies Used**
 - **Java Core (OOP Principles)** - Game Logic & Structure  
 - **Java Swing & AWT** - UI Rendering & Graphics  
 - **Java Collections (ArrayList, HashMap)** - Managing game data  
@@ -74,7 +74,7 @@ Eldoria/
 
 ---
 
-## **🛠How to Modify the Game**
+## **How to Modify the Game**
 - **To edit levels**, modify the `map.txt` file inside the `assets/maps/` folder.  
 - **To change character sprites**, replace images in `assets/images/`.  
 - **To add new NPCs or enemies**, modify `NPC.java` and `Enemy.java`.  
