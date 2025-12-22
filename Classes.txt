@@ -1,0 +1,25 @@
+Main Class-
+- `Main.class` (located in `bin/`): This is the entry point of the game, responsible for launching the application.
+
+Parent Class (Base Class)-
+- `GameEntity.class` (found in `com/project/model/`): This is the parent class for all game characters (such as players and NPCs).
+- Other game elements like `BlueSlime.class`, `GreenSlime.class`, and `NPCBaba.class` inherit from this class.
+
+Other Classes and Their Uses-
+1. Game Logic & Control
+   - `GameEngine.class`: Core engine handling game loop and rendering.
+   - `KeyHandler.class`: Handles keyboard input.
+   - `CollisionDetector.class`: Manages in-game collision detection.
+
+2. Entities & Objects
+   - `NPCS.class`, `NPCDarkGuy.class`, `NPCBaba.class`: Different types of NPCs.
+   - `BlueSlime.class`, `GreenSlime.class`: Different enemy characters.
+   - `InteractableObjects.class`: Represents objects that the player can interact with.
+
+3. Managers
+   - `ObjectManager.class`: Handles game objects.
+   - `TileManager.class`: Manages map tiles.
+   - `SoundManager.class`: Handles audio for the game.
+
+4. Interfaces
+   - `AI.class`: defines behaviors for NPC AI.
